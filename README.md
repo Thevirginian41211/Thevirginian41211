@@ -1,6 +1,4 @@
-<h1>Hi, I'm Ethan, an <a href="www.linkedin.com/in/ethan-malcolm-a4b0a7260
-
-">IT Professional</a>💻</h1>
+<h1>Hi, I'm Ethan, an <a href="www.linkedin.com/in/ethan-malcolm-a4b0a7260">IT Professional</a>💻</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
