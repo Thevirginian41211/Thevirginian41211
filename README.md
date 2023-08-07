@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Virginian41211
 [instagram]: https://www.instagram.com/thevirginian41211/
-[linkedin]: www.linkedin.com/in/ethan-malcolm-a4b0a7260
+[linkedin]: https://www.linkedin.com/in/ethan-malcolm-a4b0a7260/
